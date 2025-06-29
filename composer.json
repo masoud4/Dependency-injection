@@ -1,0 +1,22 @@
+{
+    "name": "masoud4/http-tools",
+    "description": "A configurable and colorful PHP CLI application with HTTP tools and validation.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Masoud4",
+            "email": "ashrafianpur.masoud@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Masoud4\\HttpTools\\": "src/",    
+            "Masoud4\\HttpTools\\Commands\\": "commands/",
+            "App\\": "app/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
