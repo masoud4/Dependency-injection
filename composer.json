@@ -4,15 +4,15 @@
     "type": "library",
     "authors": [
         {
-            "name": "Masoud4",
+            "name": "masoud4",
             "email": "ashrafianpur.masoud@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Masoud4\\HttpTools\\": "src/",    
-            "Masoud4\\HttpTools\\Commands\\": "commands/",
+            "masoud4\\HttpTools\\": "src/",    
+            "masoud4\\HttpTools\\Commands\\": "commands/",
             "App\\": "app/"
         }
     },

@@ -1,5 +1,5 @@
 <?php
-namespace Masoud4\HttpTools\Container;
+namespace masoud4\HttpTools\Container;
 
 // Mimicking Psr\Container\ContainerInterface but without the direct PSR dependency for now.
 interface ContainerInterface
