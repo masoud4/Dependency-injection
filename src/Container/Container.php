@@ -19,6 +19,8 @@ class Container implements ContainerInterface
      */
     private array $singletons = [];
 
+
+    
     /**
      * @param array<string, mixed> $definitions Optional initial service definitions.
      */
