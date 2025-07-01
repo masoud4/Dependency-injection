@@ -1,5 +1,5 @@
 {
-    "name": "masoud4/http-tools",
+    "name": "masoud4/di",
     "description": "A configurable and colorful PHP CLI application with HTTP tools and validation.",
     "type": "library",
     "authors": [
